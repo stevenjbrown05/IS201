@@ -1,0 +1,26 @@
+body {background-color: rgb(180, 199, 245);}
+
+.pic
+{
+align-content: center;
+align-self: center;
+padding-left: 100px;
+}
+
+h3
+{    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:midnightblue;
+}
+
+.vid
+{
+align-content: center;
+align-self: center;
+padding-left: 100px;
+padding-top: 50px;
+}
+
+.resume
+{
+    padding-left: 100px;
+}
