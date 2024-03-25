@@ -21,6 +21,15 @@ padding-left: 100px;
 padding-top: 50px;
 }
 
+.tab
+{
+position: relative;
+align-content: center;
+align-self: center;
+padding-left: 100px;
+padding-top: 50px;
+}
+
 .resume
 {
     padding-left: 100px;
